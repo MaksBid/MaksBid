@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MaksBid, 15 y.o.
+- 👋 Hi, I’m @MaksBid, 17 y.o.
 - 👀 I’m only starting my way in programming
-- 🌱 I’m currently learning web-developing
+- 📖 I’m a student in National university Lviv Polytechnic
 - Twitter: @Maksbid;
-- Telegram: @Maksbid; 
+- Telegram: @Maksbid, t.me/maksbid; 
 - Instagram: @maksbid9;
 
 <!---
