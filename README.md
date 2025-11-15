@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MaksBid, 18 y.o.
-- 👀 I’m only starting my way in programming
-- 📖 I’m a student in National university Lviv Polytechnic
+19 y.o., a 3rd year student in National university Lviv Polytechnic. 
 
 <!---
 MaksBid/MaksBid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
